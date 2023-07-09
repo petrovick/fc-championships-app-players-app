@@ -12,8 +12,8 @@ image:
 
 imagePullSecrets: []
 nameOverride: ""
-fullnameOverride: "kubernetes"
-fullname: "kubernetes"
+fullnameOverride: ""
+fullname: "players"
 
 serviceAccount:
   # Specifies whether a service account should be created
