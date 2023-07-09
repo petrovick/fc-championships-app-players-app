@@ -14,6 +14,7 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 fullname: "players"
+labels: "players"
 
 serviceAccount:
   # Specifies whether a service account should be created
